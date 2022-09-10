@@ -1,7 +1,8 @@
+![](https://komarev.com/ghpvc/?username=alaabenfatma)
 ## Hi, I am Alaa 👋
 I am a Software Engineer and an open source enthusiast. 
 
-![](https://komarev.com/ghpvc/?username=alaabenfatma)
+
 
 ## Skillset
 
